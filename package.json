@@ -4,7 +4,7 @@
   "description": "Free Fire character information app",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": "22.x"
   },
   "type": "module",
   "scripts": {
